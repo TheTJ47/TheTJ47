@@ -31,15 +31,15 @@
 ### 📊 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheTJ47&show_icons=true&hide_title=true&theme=radicals](https://github-readme-stats.vercel.app/api/top-langs/?username=TheTJ47&layout 🏆 **Achievements**
-- GitHub Trophy: ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=The source contributor to AI & NLP.[2][3][1]
-- Regular AI training with GPU acceleration and resource monitoring.[5][6][7]
+- GitHub Trophy: ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=The source contributor to AI & NLP.
+- Regular AI training with GPU acceleration and resource monitoring.
 
 ***
 
 ### 🌟 **Inspired by the Best**  
 I follow the blueprint of top AI engineers:
-- Interactive READMEs with project links, badges, and dynamic stats.[11][12][13][14]
-- Well-organized skills section and visuals (stats, summary cards).[15][16][17]
+- Interactive READMEs with project links, badges, and dynamic stats.
+- Well-organized skills section and visuals (stats, summary cards).
 - Automation & collaboration at heart.
 
 ***
