@@ -54,12 +54,6 @@ I follow the blueprint of top AI engineers:
 
 > **“Code is my canvas, AI is my brush. Let’s paint a smarter future.”**  
 
-***
-
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/TheTJ47?style=socialimg.shields.io/badge/-LinkedIn-blue?style=flat-square&](https://img.shields.io/badge/Kaggle-Datasets-blue?style=flat-square&logo=kag sections — add latest blog posts, stackoverflow stats, etc. using GitHub Actions -->
-
-***
 
 **Feel free to fork, star, or reach out. Let’s build the future of AI together!**
 
