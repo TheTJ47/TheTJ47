@@ -46,7 +46,7 @@ I follow the blueprint of top AI engineers:
 
 ### 🔗 **Connect & Collaborate**
 
-- 🌐 [Portfolio soon…]
+- 🌐 https://tejasbagal.vercel.app
 - 💬 DM for collaborations on cloud-native, NLP, or summarization projects.
 - 🚀 _Let’s innovate together!_
 
