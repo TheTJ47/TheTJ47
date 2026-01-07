@@ -52,8 +52,6 @@ I follow the blueprint of top AI engineers:
 
 ***
 
-> **“Code is my canvas, AI is my brush. Let’s paint a smarter future.”**  
-
 
 **Feel free to fork, star, or reach out. Let’s build the future of AI together!**
 
