@@ -1,85 +1,138 @@
-<h1 align="center">Tejas Subhash Bagal</h1>
-<h3 align="center">AI & Data Science | NLP | Machine Learning | Generative AI</h3>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Tejas%20Subhash%20Bagal&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=38&desc=NLP%20%7C%20Generative%20AI%20%7C%20Data%20Science&descAlignY=62&descSize=20)
 
 <p align="center">
-  <a href="https://tejasbagal.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/tejas-bagal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bagaltejas47@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Building+AI+that+ships+from+notebook+to+production+%F0%9F%9A%80;NLP+%7C+LLMs+%7C+RAG+%7C+Data+Science;Final-year+B.Tech+%7C+Open+to+Data+%26+AI+Roles+%F0%9F%91%8B" />
+</p>
+
+<p align="center">
+  <a href="mailto:bagaltejas47@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tejas-bagal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/TheTJ47"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://tejasbagal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20GenAI-brightgreen?style=for-the-badge" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=TheTJ47&label=Profile%20views&color=58A6FF&style=for-the-badge" />
 </p>
 
 ---
 
 ## About Me
 
-- 🎓 Final-year **B.Tech in AI & Data Science** at MIT Aurangabad (CGPA 8.6/10), graduating May 2027
-- 🧑‍💻 Building production AI applications using **Transformers, LLM APIs, and Python**
-- 📄 Interned at **Suvidha Foundation** — benchmarked 7 Transformer architectures across 4 NLP datasets (ROUGE + BERTScore)
-- 🏆 **IoT Arena Hackathon Winner** — Smart Attendance System (BLE + Facial Recognition), 1st Place @ MGM University
-- 🔍 Actively seeking roles in **Data Analytics, Data Science, AI/ML Engineering, and Generative AI**
+Final-year **B.Tech in AI & Data Science** at MIT Aurangabad (CGPA 8.6/10, graduating May 2027). I build NLP and generative-AI products end-to-end — from model benchmarking in notebooks to deployed, user-tested web apps.
+
+- 🔬 **NLP & Summarization** — benchmarked 10 Transformer models (BART, PEGASUS, T5, Longformer, PRIMERA…) on CNN/Daily Mail with ROUGE
+- 💼 **Interned at Suvidha Foundation** — Transformer architecture evaluation (ROUGE + BERTScore)
+- 🏆 **1st Place, MGM IoT Arena** — Smart Attendance System (BLE + facial recognition)
+- 🎯 Seeking roles in **Data Analytics, Data Science, AI/ML Engineering & Generative AI**
 - 📍 Chh. Sambhajinagar, Maharashtra, India
+
+---
+
+## What I Do
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/64/artificial-intelligence.png" width="48" /><br />
+      <b>NLP & LLMs</b><br />
+      <sub>Transformers · HuggingFace<br />Summarization · Evaluation</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/64/api-settings.png" width="48" /><br />
+      <b>Generative AI</b><br />
+      <sub>Gemini · Cohere · Anthropic MCP<br />Prompt engineering · RAG</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/64/deep-learning.png" width="48" /><br />
+      <b>Machine Learning</b><br />
+      <sub>PyTorch · scikit-learn<br />EDA · Model benchmarking</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/64/camera.png" width="48" /><br />
+      <b>Computer Vision</b><br />
+      <sub>OpenCV · EasyOCR · MediaPipe<br />Facial recognition</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/64/deployment.png" width="48" /><br />
+      <b>Web & Deployment</b><br />
+      <sub>Flask · JavaScript · Vercel<br />Serverless · PWA</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/64/database.png" width="48" /><br />
+      <b>Data & Analytics</b><br />
+      <sub>SQL · Pandas · GA4<br />Spreadsheets automation</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Tech Stack
 
-**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,javascript,html,css,flask,opencv,git,github,vercel,jupyter&perline=11" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**AI / ML / Data Science**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-**Generative AI & LLMs**
-
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Cohere](https://img.shields.io/badge/Cohere-39594C?style=for-the-badge&logo=cohere&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-
-**Tools & Deployment**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cohere-39594C?style=flat-square&logo=cohere&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+</p>
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Summarization Benchmark**](https://github.com/TheTJ47/summarization-benchmark) | Benchmarked 7 Transformer models (BART, T5, PEGASUS, LED, Longformer, Primera, Absformer) across 4 datasets with ROUGE + BERTScore evaluation | Python · PyTorch · HuggingFace · Jupyter |
-| [**Train N Gain**](https://train-n-gain.vercel.app) | AI fitness coaching app on Vercel Serverless with Gemini 2.5 Flash; 5 GA4 events tracking a full retention funnel | JavaScript · Gemini 2.5 Flash · Vercel · GA4 |
-| [**TextTrace**](https://flaskproject-blond.vercel.app) | Flask OCR app converting handwritten & printed images to structured PDF/Word documents | Python · Flask · EasyOCR · OpenCV |
-| [**Automated News Summarizer**](https://github.com/TheTJ47/Automated-News-Retrieval-Summarization-Tool) | Selenium scraper → Cohere API summarization → topic classification → Excel export | Python · Selenium · Cohere API · NLP |
-| [**AI Resume Generator**](https://github.com/TheTJ47/Resume-Automation) | Zero-touch resume pipeline: Google Forms → Cohere API enhancement → Gmail API PDF delivery | Google Apps Script · Cohere API · Gmail API |
-| [**Consumer Behaviour Analysis**](https://github.com/TheTJ47) | EDA on retail shopping data — purchasing patterns, segmentation, and marketing insights | Python · Pandas · Matplotlib · Seaborn |
+| Project | What it does | Stack |
+|---|---|---|
+| [Train N Gain — Live](https://train-n-gain.vercel.app) | AI fitness coach: Gemini 2.5 Flash chatbot, MediaPipe form-checker, GA4 funnel, PWA | JavaScript · Gemini · MediaPipe · Vercel |
+| [Summarization Benchmark](https://github.com/TheTJ47/summarization-benchmark) | 10 abstractive summarization models evaluated on CNN/Daily Mail with ROUGE scores | PyTorch · HuggingFace · Kaggle |
+| [Smart Attendance System](https://github.com/TheTJ47/Hackt) | BLE beacons + facial-recognition attendance — 1st Place @ MGM IoT Arena | Python · OpenCV · BLE |
+| [Automated News Summarizer](https://github.com/TheTJ47/Automated-News-Retrieval-Summarization-Tool) | Scrapes The Hindu & HT → Cohere summarization → topic classification → Excel export | Python · Selenium · Cohere |
+| [AI Resume Generator](https://github.com/TheTJ47/Resume-Automation) | Zero-touch pipeline: Google Forms → Cohere enrichment → Gmail API PDF delivery | Apps Script · Cohere · Gmail API |
+| [TextTrace — Live](https://flaskproject-blond.vercel.app) | Handwriting & printed-text OCR converted to PDF/Word documents | Flask · EasyOCR · OpenCV |
 
 ---
 
+## Active Right Now
+
+<a href="https://github.com/TheTJ47/Train-N-Gain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheTJ47&repo=Train-N-Gain&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/TheTJ47/summarization-benchmark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheTJ47&repo=summarization-benchmark&theme=tokyonight&hide_border=true" />
+</a>
+
+---
+
+## GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheTJ47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheTJ47&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=TheTJ47&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheTJ47&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
 
 ## Certifications
 
-- 🟢 **NVIDIA Deep Learning Institute** — Fundamentals of Deep Learning *(Feb 2026)*
+- 🟢 **NVIDIA Deep Learning Institute** — Fundamentals of Deep Learning
 - 🟢 **Anthropic** — Model Context Protocol (MCP)
 - 🟢 **Deloitte Australia** — Data Analytics Job Simulation (Tableau, Spreadsheets)
 - 🟢 **IBM & CognitiveClass.ai** — Statistics 101
@@ -90,16 +143,14 @@
 
 ## Currently
 
-- 📖 Enrolled: **NPTEL Remote Sensing & GIS** *(Jul 2026)*
-- 🛠️ Improving: Production ML evaluation pipelines
-- 🎯 Targeting: Data Analyst · Data Scientist · AI/ML Engineer · GenAI Engineer roles
+- 📖 Enrolled: **NPTEL Remote Sensing & GIS**
+- 🛰️ Building **FarmAid** — satellite-based crop-damage assessment for insurance claims (Sentinel-2 · Google Earth Engine · NDVI anomaly) — academic minor project
+- 🛠️ Improving: production ML evaluation pipelines
 
 ---
 
-## Connect
+<p align="center"><i>Thanks for stopping by — let's build something intelligent together.<br />Reach me on <a href="mailto:bagaltejas47@gmail.com">email</a> or <a href="https://linkedin.com/in/tejas-bagal">LinkedIn</a>.</i></p>
 
-<p align="left">
-  <a href="https://linkedin.com/in/tejas-bagal" target="_blank">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://tejasbagal.vercel.app" target="_blank">Portfolio</a> &nbsp;·&nbsp;
-  <a href="mailto:bagaltejas47@gmail.com">bagaltejas47@gmail.com</a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" />
+</div>
